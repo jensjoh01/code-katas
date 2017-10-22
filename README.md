@@ -35,3 +35,9 @@
 - **Module**: `find_odd_int.py`
 - **Tests**: `test_find_odd_int.py`
 - **URL**: https://www.codewars.com/kata/find-the-odd-int/train/python
+
+**Sum of the first nth term of series(7 kyu)**
+
+- **Module**: `sum_of_nth_terms.py`
+- **Tests**: `test_sum_terms.py`
+- **URL**: http://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python
