@@ -41,3 +41,11 @@
 - **Module**: `sum_of_nth_terms.py`
 - **Tests**: `test_sum_terms.py`
 - **URL**: http://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python
+
+**Proper Parenthetics**
+
+- **Module**: `proper_parenthetics.py`
+- **Tests**: `test_proper_parethetics.py`
+
+Test if a string of parenthesis is proper. That for every opening parenthesis there is a closing one in the proper order.
+To create this I used a stack.
